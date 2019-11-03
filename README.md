@@ -37,7 +37,7 @@
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190142.png) 
 #### 默认只开启走砍 需要开启其他脚本按F6勾选再按F6等待加载好(不用的脚本尽量不勾选)
 #### 如果出现这种情况
-![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827231214.png)   
+![](https://github.com/bovil/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20191103165805.png)   
 #### 下载这个 [下载](https://notepad-plus-plus.org/download "悬停显示")  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190828112400.png)  
 #### 安装到默认路径
