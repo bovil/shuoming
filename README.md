@@ -30,8 +30,6 @@
 #### sstap节点可能会失效  如失效可以用 [临时邮箱](http://www.yopmail.com/zh/email-generator.php "悬停显示")    [注册获取节点](https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md "悬停显示") 
 #### 登入辅助等待注入完成即可 (正常一分钟左右)         需要关闭辅助关闭PowerShell即可  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190919233249.png)   
- 
-![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827094738.png)  
 #### 然后去训练模式测试  首次需要设置LOL快捷指定攻击设置为U键  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png)  
 #### F1开启或关闭菜单   可以在走砍设置里按自己习惯改键位  走砍设置里的(超级重要！延迟/ping/ms)这里设置成你当前游戏延迟
