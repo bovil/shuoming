@@ -25,7 +25,7 @@
 #### LOL必须无边框运行  
 #### wegame设置对局详情改成Ctrl  启动模式改成无边框  不用wegame可以忽略  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910183920.png)  
-####下载网盘里的sstap解压运行 选择可用节点 选择辅助模式连接 再登入小黑(sstap要一直连接)
+####下载网盘里的sstap解压运行 选择可用节点 选择辅助模式连接 再登入小黑(sstap要一直连着)
 ![](https://github.com/bovil/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20191103163845.png)
 #### 登入辅助等待注入完成即可 (正常一分钟左右)         需要关闭辅助关闭PowerShell即可  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190919233249.png)   
