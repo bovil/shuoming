@@ -17,8 +17,8 @@
 
 
 
-[备用运行库](https://pan.lanzou.com/b221518 "悬停显示")  
-密码fv1x  备用运行库 安装最新的 MSVBCRT.AIO和DirectX9  就行
+[备用运行库](https://www.itsk.com/thread-396895-1-1.html "悬停显示")  
+
 
 
 ## 小黑教程
@@ -29,7 +29,7 @@
 ![](https://github.com/bovil/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20191103163845.png)
 #### 登入辅助等待注入完成即可 (正常一分钟左右)         需要关闭辅助关闭PowerShell即可  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190919233249.png)   
-#### sstap节点可能会失效  如失效可以用 [临时邮箱](http://www.yopmail.com/zh/email-generator.php "悬停显示")    [注册获取节点](http://qiusudu.com "悬停显示")  
+#### sstap节点可能会失效  如失效可以用 [临时邮箱](http://www.yopmail.com/zh/email-generator.php "悬停显示")    [注册获取节点](https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md "悬停显示")  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827094738.png)  
 #### 然后去训练模式测试  首次需要设置LOL快捷指定攻击设置为U键  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png)  
@@ -44,7 +44,7 @@
 ![](https://github.com/bovil/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20191103171036.png)  
 #### 安装好重新打开辅助软件等待辅助窗口关闭就注入好了  
 #### 如需关闭辅助只要关闭notepad++即可  否则不要关闭notepad++
-如果进游戏30秒没有菜单 那就检查是否LOL是无边框运行或运行库是否安装
+#### 如果进游戏30秒没有菜单 那就检查是否LOL是无边框运行或运行库是否安装
 #### 使用躲避每局进入游戏30秒后里面没有可躲避技能就需要按2下F6重新加载躲避功能才会生效(测试躲避需要选择一些有控制的电脑 比如拉克是莫甘娜)
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827095548.png)  
 #### 这是躲避正常情况下(测试躲避时不要选剑圣那种电脑  因为他们没有控制和指向技能 所以菜单下不会显示他们的可躲避技能)  
